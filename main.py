@@ -22,7 +22,7 @@ for _ in range(word_length):
 print(logo)
 
 # ONLY FOR TEST
-print(f"La palabra es: {chosen_word}.")
+# print(f"La palabra es: {chosen_word}.")
 
 # Make a condition to play the game
 end_of_game = False
